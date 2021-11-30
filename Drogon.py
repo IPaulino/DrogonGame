@@ -165,4 +165,3 @@ while fim:
 
 #mostrando todos os eventos-------------------------
         # print(evento)
-        # print(pontos)
